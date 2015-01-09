@@ -1,0 +1,24 @@
+{
+  "name": "amazon-search",
+  "version": "0.0.1",
+  "description": "search engine for amazon products with steroids",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests/test_all.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gpestana/amazon-search.git"
+  },
+  "keywords": [
+    "amazon",
+    "search",
+    "books"
+  ],
+  "author": "gpestana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gpestana/amazon-search/issues"
+  },
+  "homepage": "https://github.com/gpestana/amazon-search"
+}
